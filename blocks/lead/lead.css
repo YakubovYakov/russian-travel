@@ -18,3 +18,11 @@
 	}
 	
 }
+
+@media (max-width: 320px) {
+	.lead {
+		max-width: 320px;
+		height: 406px;
+		
+	}
+}

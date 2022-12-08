@@ -20,3 +20,13 @@
 	}
 	
 }
+
+@media (max-width: 320px) {
+	.footer {
+		flex-direction: column;
+		max-width: 186px;
+		height: 310px;
+		margin: 0;
+		margin-left: 16px;
+	}
+}

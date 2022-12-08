@@ -1,6 +1,5 @@
 .lead__image {
 	max-width: 1280px;
-	height: 615px;
 	display: block;
 	margin: 0 auto;
 }
@@ -16,5 +15,12 @@
 	.lead__image {
 		display: block;
 		max-width: 768px;
+	}
+}
+
+@media (max-width: 320px) {
+	.lead__image {
+		display: block;
+		max-width: 320px;
 	}
 }

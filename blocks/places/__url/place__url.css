@@ -1,9 +1,24 @@
 .place__url {
-	width: 456px;
+	max-width: 456px;
 	height: 12px;
 	font-style: normal;
 	font-weight: 400;
 	font-size: 12px;
 	line-height: 12px;
 	letter-spacing: 2px;
+}
+
+@media (max-width: 768px) {
+	 .place__url {
+		max-width: 352px;
+	 }
+	
+}
+
+@media (max-width: 320px) {
+	.place__url {
+		max-width: 288px;
+		margin: 0;
+		margin-bottom: 12px;
+	}
 }

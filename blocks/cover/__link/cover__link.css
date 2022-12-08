@@ -44,5 +44,14 @@
 @media (max-width: 768px) {
 	.cover__link {
 		max-width: 768px;
+		height: 480px;
+	}
+}
+
+@media (max-width: 320px) {
+	.cover__link {
+		max-width: 320px;
+		height: 200px;
+		margin: 0;
 	}
 }

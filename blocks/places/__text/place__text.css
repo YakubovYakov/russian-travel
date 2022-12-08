@@ -26,7 +26,27 @@
 
 @media (max-width: 768px) {
 	.place__text {
-		width: 352px;
+		max-width: 352px;
 		font-size: 16px;
+		line-height: 26.08px;
+	}
+	.place__text:last-of-type {
+		font-size: 16px;
+		margin-bottom: 0;
+		line-height: 26.08px;
 	}
 }
+
+@media (max-width: 320px) {
+	.place__text {
+		max-width: 288px;
+		line-height: 26px;
+		margin: 0 auto;
+	}
+	.place__text:last-of-type {
+		max-width: 288px;
+		line-height: 26px;
+		margin: 0 auto;
+	}
+}
+
