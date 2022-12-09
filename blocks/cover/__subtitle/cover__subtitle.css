@@ -11,6 +11,15 @@
 	margin-top: 32px;
 }
 
+@media (max-width: 767px) {
+	.cover__subtitle {
+		max-width: 80%;
+    font-size: 14px;
+    line-height: 16px;
+		margin-top: 20px;
+	}
+}
+
 @media (max-width: 320px) {
 	.cover__subtitle {
 		max-width: 288px;

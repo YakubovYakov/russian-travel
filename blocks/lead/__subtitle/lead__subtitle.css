@@ -24,6 +24,18 @@
 	}
 }
 
+@media (max-width:517px) {
+	.lead__subtitle {
+		line-height: 40px;
+	}
+}
+
+@media (max-width: 375px) {
+	.lead__subtitle {
+		line-height: 30px;
+	}
+}
+
 @media (max-width: 350px) {
 	.lead__subtitle {
 		line-height: 25px;

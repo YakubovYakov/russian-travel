@@ -28,6 +28,11 @@
     grid-template-columns: 1fr;
  }
 }*/
+@media (max-width: 592px) {
+	.place {
+		grid-template-columns: 330px 1fr;
+	}
+}
 
 @media (max-width: 562px) {
 	.place {
