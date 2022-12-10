@@ -1,7 +1,7 @@
 .place {
 	display: grid;
 	/*grid-template-columns: repeat(auto-fit, minmax(440px, 460px)) minmax(456px, 484px);*/
-	grid-template-columns: minmax(440px, 460px) minmax(456px, 484px); 
+	grid-template-columns: minmax(440px, 460px) minmax(456px, 484px);
 	grid-gap: 40px 40px ;
   margin: 0 0 80px 0;
 	margin-left: 100px;
@@ -28,7 +28,7 @@
 	/*grid-template-columns: minmax(340px, 1fr) minmax(352px, 1fr);*/
 	gap: 40px 28px;
 	margin: 0;
-	grid-template-columns: 340px 1fr; 
+	grid-template-columns: 340px 1fr;
 	}
 }
 
