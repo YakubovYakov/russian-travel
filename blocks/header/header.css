@@ -10,15 +10,13 @@
 
 @media (max-width: 1024px) {
 	.header {
-	margin: 28px auto 48px; 
-	margin-top: 0;
-
+	  margin: 28px auto 48px; 
+	  margin-top: 0;
 	}
 }
 
 @media (max-width: 768px) {
 	.header {
-		
 		margin: 0 auto;
 		margin-top: 29px;
 		margin-bottom: 49px;

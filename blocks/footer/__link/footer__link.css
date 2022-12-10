@@ -1,17 +1,17 @@
 .footer__link {
-	display: inline;
-	margin-right: 18px;
-	list-style-type: none;
-	font-style: normal;
-	font-weight: 400;
-	font-size: 16px;	
-	line-height: 18px;
-	opacity: 1;
-	transition: .4s;
+	  display: inline;
+	  margin-right: 18px;
+	  list-style-type: none;
+	  font-style: normal;
+	  font-weight: 400;
+	  font-size: 16px;	
+	  line-height: 18px;
+	  opacity: 1;
+	  transition: .4s;
 }
 
 .footer__link:hover {
-	opacity: 0.8;
+	  opacity: 0.8;
 }
 
 @media (max-width: 767px) {
