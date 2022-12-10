@@ -1,6 +1,6 @@
 .lead {
 	margin: 0 auto;
-	max-width: 1280px;
+	max-width: 984px;
 	/* height: 1005px; */
   text-align: center;
 }
@@ -8,7 +8,8 @@
 @media (max-width: 1024px) {
 	.lead {
 		display: block;
-		max-width: 928px;
+		max-width: 90%;
+		margin: 0 auto;
 	}
 }
 

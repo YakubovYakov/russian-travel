@@ -18,6 +18,13 @@
 	}
 }
 
+@media (max-width: 767px) {
+	.lead__title {
+		font-size: 12vw;
+    line-height: 1.15;
+	}
+}
+
 /*@media (max-width: 550px) {
 	.lead__title {
 		font-size: 55px;

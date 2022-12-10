@@ -21,26 +21,9 @@
 
 @media (max-width: 767px) {
 	.lead__subtitle {
-		font-size: 30px;
-		line-height: 50px;
-	}
-}
-
-@media (max-width:517px) {
-	.lead__subtitle {
-		line-height: 40px;
-	}
-}
-
-@media (max-width: 375px) {
-	.lead__subtitle {
-		line-height: 30px;
-	}
-}
-
-@media (max-width: 350px) {
-	.lead__subtitle {
-		line-height: 25px;
+		font-size: 25px;
+    line-height: 35px;
+		height: 40px;
 	}
 }
 

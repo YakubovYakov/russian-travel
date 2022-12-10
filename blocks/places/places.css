@@ -6,11 +6,7 @@
 	margin-top: 92px;
 }
 
-@media (max-width: 1280px) {
-	.place {
-		margin-left: 100px;
-	}
-}
+
 
 @media (max-width: 1024px) {
 	.places {
@@ -31,7 +27,7 @@
 
 @media (max-width: 767px) {
 	.places {
-		/*max-width: 95%; */
+		max-width: 95%; 
 	}
 }
 
