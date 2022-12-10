@@ -12,14 +12,16 @@
 
 @media (max-width: 768px) {
 	.lead__subtitle {
-		font-size: 5vw;
-		max-width: 90%;
+		font-size: 30px;
 		line-height: 36px;
+		margin-top: -4px;
+		margin-bottom: 56px;
 	}
 }
 
 @media (max-width: 767px) {
 	.lead__subtitle {
+		font-size: 30px;
 		line-height: 50px;
 	}
 }

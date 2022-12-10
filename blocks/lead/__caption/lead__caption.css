@@ -9,22 +9,34 @@
 	
 }
 
+@media (max-width: 1280px) {
+	.lead__caption {
+		margin-right: 830px;
+    max-width: 100%;
+}
+	}
+
+
 @media (max-width: 1024px) {
 	.lead__caption {
 		margin: 0;
-		margin-top: 8px;
+		margin-top: 10px;
+		margin-right: 768px;
 	}
 }
 
 @media (max-width: 768px) {
 	.lead__caption {
-		margin-left: 24px;
+		margin-left: -52px;
+		margin-top: 2px;
+		margin-right: 509px;
 	}
 }
 
 @media (max-width: 320px) {
 	.lead__caption {
-		margin-top: 8px;
-		margin-left: 16px;
+		margin-top: 12px;
+		margin-left: 11px;
+		margin-right: 139px;
 	}
 }

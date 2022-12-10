@@ -13,6 +13,14 @@
 	}
 }
 
+@media (max-width: 768px) {
+	.intro {
+		margin-bottom: 85px;
+		margin-top: -2px;
+		margin-left: 25px;
+	}
+}
+
 @media (max-width: 767px) {
 	.intro {
 		display: block;
