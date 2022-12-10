@@ -1,4 +1,4 @@
-.intro__list_item {
+.intro__list-item {
 	position: relative;
 	bottom: 3px;
 	font-style: normal;
@@ -8,7 +8,7 @@
 }
 
 @media (max-width: 320px) {
-	.intro__list_item {
+	.intro__list-item {
 		bottom: 1px;
 	}
 }

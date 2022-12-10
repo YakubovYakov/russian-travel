@@ -21,8 +21,8 @@
 
 @media (max-width: 767px) {
 	.lead__subtitle {
-		font-size: 25px;
-    line-height: 35px;
+		font-size: 5vw;
+    line-height: 39px;
 		height: 40px;
 	}
 }
