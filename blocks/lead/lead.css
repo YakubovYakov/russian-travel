@@ -1,7 +1,6 @@
 .lead {
 	margin: 0 auto;
 	max-width: 984px;
-	/* height: 1005px; */
   text-align: center;
 }
 
@@ -23,7 +22,6 @@
 @media (max-width: 320px) {
 	.lead {
 		max-width: 320px;
-		height: 406px;
 		
 	}
 }

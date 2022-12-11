@@ -1,9 +1,10 @@
 .places {
-	 width: 95%;
-	 max-width: 1184px;
+	 max-width: 984px;
 	 display: grid;
 	 margin: 0 auto;
 	 margin-top: 92px;
+	 gap: 80px;
+	 padding-bottom: 92px;
 }
 
 
@@ -28,11 +29,8 @@
 @media (max-width: 767px) {
 	.places {
 		max-width: 95%;
+		padding: 0;
 	}
-}
-
-@media (max-width: 562px) {
-	
 }
 
 @media (max-width: 320px) {

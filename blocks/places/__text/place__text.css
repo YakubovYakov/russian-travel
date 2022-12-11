@@ -21,7 +21,7 @@
 	.place__text {
 		font-size: 1.8vw;
 	}
- .place__text:last-of-type {
+  .place__text:last-of-type {
 	font-size: 1.8vw;
  }
 }
@@ -37,6 +37,12 @@
 		font-size: 16px;
 		margin-bottom: 0;
 		line-height: 26.08px;
+	}
+}
+
+@media (max-width: 767px) {
+	.place__text {
+		max-width: 100%;
 	}
 }
 
