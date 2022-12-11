@@ -24,21 +24,14 @@
 
 @media (max-width: 768px) {
 	.footer__copyright {
-		margin-right: -22px;
-	}
-}
-
-@media (max-width: 767px) {
-	.footer__copyright {
-		margin: 0;
-		text-align: left;
+		margin-right: 24px;
 	}
 }
 
 @media (max-width: 320px) {
 	.footer__copyright {
+		text-align: start;
+		margin-top: 48px;
 		line-height: 14px;
-		margin: 0;
-		text-align: left;
 	}
 }

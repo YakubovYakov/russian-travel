@@ -7,21 +7,18 @@
 	 padding-bottom: 92px;
 }
 
-
-
 @media (max-width: 1024px) {
 	.places {
-		max-width: 95%;
-
+		max-width: 90%;
 	}
-	
+
 }
 
 @media (max-width: 768px) {
 	.places {
 		width: 100%;
 		max-width: 720px;
-		margin: 0 auto 80px;
+		padding-bottom: 90px;
 		gap: 73px;
 	}
 } 
@@ -35,6 +32,7 @@
 
 @media (max-width: 320px) {
 	.places {
+		padding-bottom: 66px;
 		max-width: 320px;
 		gap: 50px;
 	}

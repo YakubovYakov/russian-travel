@@ -2,6 +2,12 @@
 	
 }
 
+@media (max-width: 1024px) {
+	.place__paragraph {
+		max-width: 95%;
+	}
+}
+
 @media (max-width: 570px) {
 	.place__paragraph {
 		max-width: 92%;

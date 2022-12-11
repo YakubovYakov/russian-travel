@@ -9,20 +9,13 @@
 @media (max-width: 1024px) {
 	.cover {
 		margin: 0;
-		margin-top: 56px;
 	}	
-}
-
-@media (max-width: 768px) {
-	 .cover {
-		margin-top: 94px;
-	 }
 }
 
 @media (max-width: 320px) {
 	.cover {
 		/*max-width: 320px; */
 		margin: 0;
-		margin-bottom: 64px;
+		padding-bottom: 64px;
 	}
 }

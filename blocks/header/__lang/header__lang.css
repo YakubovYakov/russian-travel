@@ -1,14 +1,20 @@
 .header__lang {
 	list-style-type: none;
 	padding: 0;
-	margin-bottom: 0;
+	margin: 0;
 	display: flex;
 	align-items: flex-end;
+	gap: 18px;
+  opacity: 1;
+	transition: 0.5s;
+}
+
+.header__lang:hover {
+	opacity: 0.8;
 }
 
 @media (max-width: 1024px) {
 	.header__lang {
-		/*margin-right: 49px;*/
     margin-top: 41px;
 
 	}
@@ -16,15 +22,14 @@
 
 @media (max-width: 768px) {
 	.header__lang {
-		margin: 0;
+		margin-top: 14px;
 		padding-right: 24px;
-		align-self: flex-end;
+		
 	}
 }
 
 @media (max-width: 320px) {
-	.header__lang  {
-		margin: 0;
-		align-self: flex-end;
+	.header__lang {
+		padding-right: 16px;
 	}
 }

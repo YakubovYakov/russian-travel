@@ -11,9 +11,3 @@
 	}
 }
 
-@media (max-width: 320px) {
-	.footer__links {
-		gap: 32px;
-		flex-direction: column;
-	}
-}

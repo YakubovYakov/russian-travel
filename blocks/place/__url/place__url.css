@@ -4,6 +4,8 @@
 	font-size: 12px;
 	line-height: 12px;
 	letter-spacing: 2px;
+	margin-bottom: 12px;
+	color: #AAAAAA;
 }
 
 @media (max-width: 768px) {
