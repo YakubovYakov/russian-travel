@@ -1,17 +1,15 @@
 .place__paragraph {
-	
+  margin: 0 auto;
 }
 
 @media (max-width: 1024px) {
-	.place__paragraph {
-		max-width: 95%;
-	}
+  .place__paragraph {
+    max-width: 95%;
+  }
 }
 
 @media (max-width: 570px) {
-	.place__paragraph {
-		max-width: 92%;
-		margin-left: 16px;
-		
-	}
+  .place__paragraph {
+    max-width: 100%;
+  }
 }

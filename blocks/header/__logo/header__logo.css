@@ -1,5 +1,5 @@
 .header__logo {
-	height: 52px;
+  height: 52px;
   max-width: 100%;
   margin-top: 0;
   border-radius: 0px;
@@ -7,24 +7,22 @@
 }
 
 @media (max-width: 1024px) {
-	.header__logo {
-		/*margin-left: 48px;*/
-		margin-top: 28px;
-	}
+  .header__logo {
+    margin-top: 28px;
+  }
 }
 
 @media (max-width: 768px) {
-	.header__logo {
-		margin: 0;
-		padding-left: 24px;
-	}
+  .header__logo {
+    margin: 0;
+    padding-left: 24px;
+  }
 }
 
 @media (max-width: 320px) {
-	.header__logo {
-		padding-left: 16;
-		margin-left: 0;
-		width: 142px;
-		height: 42px;
-	}
+  .header__logo {
+    padding-left: 16px;
+    width: 142px;
+    height: 42px;
+  }
 }

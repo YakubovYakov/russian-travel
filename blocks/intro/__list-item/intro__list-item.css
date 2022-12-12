@@ -1,12 +1,10 @@
 .intro__list-item {
-	font-style: normal;
+  font-style: normal;
   font-weight: 700;
   font-size: 12px;
   line-height: 18px;
 }
 
 @media (max-width: 320px) {
-	.intro__list-item {
-		
-	}
+  .intro__list-item {}
 }

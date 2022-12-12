@@ -1,26 +1,26 @@
 .lead {
-	margin: 0 auto;
-	max-width: 984px;
+  margin: 0 auto;
+  max-width: 984px;
   text-align: center;
 }
 
 @media (max-width: 1024px) {
-	.lead {
-		display: block;
-		max-width: 90%;
-	}
+  .lead {
+    display: block;
+    max-width: 90%;
+  }
 }
 
 @media (max-width: 768px) {
-	.lead {
-		max-width: 768px;
-	}
-	
+  .lead {
+    max-width: 768px;
+  }
+
 }
 
 @media (max-width: 320px) {
-	.lead {
-		max-width: 320px;
-		
-	}
+  .lead {
+    max-width: 320px;
+
+  }
 }

@@ -1,19 +1,19 @@
-.footer__navigation {
-}
+.footer__navigation {}
 
 @media (max-width: 1185px) {
-	.footer__navigation {
-		margin-left: 48px;
-	}
+  .footer__navigation {
+    margin-left: 48px;
+  }
 }
 
 @media (max-width: 768px) {
-	.footer__navigation {
-		margin-left: 24px;
-	}
+  .footer__navigation {
+    margin-left: 24px;
+  }
 }
+
 @media (max-width: 767px) {
-	.footer__navigation {
-		margin: 0;
-	}
+  .footer__navigation {
+    margin: 0;
+  }
 }
