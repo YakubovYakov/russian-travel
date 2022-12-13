@@ -15,7 +15,7 @@
   .place {
     grid-template-columns: 440px 1fr;
     margin: 0 auto;
-    max-width: 928px; 
+    max-width: 928px;
 		gap: 46px 32px;
   }
 }
