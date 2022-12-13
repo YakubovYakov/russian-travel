@@ -42,13 +42,6 @@
 
 }
 
-@media (max-width: 1023px) {
-  .cover__link {
-    min-height: 64vw;
-    height: auto;
-  }
-}
-
 @media (max-width: 768px) {
   .cover__link {
     min-height: 63vw;

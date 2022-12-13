@@ -1,41 +1,41 @@
 .places {
-	 max-width: 984px;
-	 display: grid;
-	 margin: 0 auto;
-	 margin-top: 92px;
-	 gap: 80px;
-	 padding-bottom: 92px;
+  max-width: 984px;
+  display: grid;
+  margin: 0 auto;
+  margin-top: 92px;
+  gap: 80px;
+  padding-bottom: 92px;
 }
 
 @media (max-width: 1024px) {
-	.places {
-		max-width: 90%;
-	}
+  .places {
+    max-width: 91%;
+		gap: 83px;
+  }
 
 }
 
 @media (max-width: 768px) {
-	.places {
-		width: 100%;
-		max-width: 720px;
-		padding-bottom: 90px;
-		gap: 73px;
-	}
-} 
+  .places {
+    max-width: 94%;
+    padding-bottom: 90px;
+    gap: 81px;
+  }
+}
 
 @media (max-width: 767px) {
-	.places {
-		max-width: 95%;
-		padding: 0;
-	}
+  .places {
+    max-width: 95%;
+    padding: 0;
+  }
 }
 
 @media (max-width: 320px) {
-	.places {
-		margin-top: 64px;
-		padding-bottom: 66px;
-		max-width: 320px;
-		gap: 50px;
-	}
-	
+  .places {
+    margin-top: 64px;
+    padding-bottom: 66px;
+    max-width: 100%;
+    gap: 49px;
+  }
+
 }

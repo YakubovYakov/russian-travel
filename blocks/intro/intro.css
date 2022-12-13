@@ -23,9 +23,9 @@
 
 @media (max-width: 767px) {
   .intro {
-    width: 90%;
+    max-width: 94%;
     margin: 0;
-    margin-left: 24px;
+    margin: 0 auto;
     margin-bottom: 64px;
   }
 }
