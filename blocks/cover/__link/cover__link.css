@@ -36,8 +36,9 @@
 @media (max-width: 1024px) {
   .cover__link {
     max-width: 1024px;
-    min-height: 640px;
+    min-height: auto;
     margin-bottom: 92px;
+		aspect-ratio: 8/5;
   }
 
 }
